@@ -1,1 +1,1 @@
-Useing HTML and Tailwind
+Using HTML and Tailwind
